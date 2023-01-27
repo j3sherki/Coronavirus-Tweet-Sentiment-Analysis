@@ -1,5 +1,6 @@
 # Coronavirus-Tweet-Sentiment-Analysis
-#Project Summary -
+## Project Summary -
+
 The COVID-19 pandemic is a global outbreak of the coronavirus, an infectious disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) virus.
 
 The first cases of the novel coronavirus (nCoV) were first detected in China in December 2019, with the virus quickly spreading to other countries around the world. This led the WHO to declare a public health emergency of international concern on 30 January 2020 and to designate the outbreak as a pandemic on 11 March 2020.
